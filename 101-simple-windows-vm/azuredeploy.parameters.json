@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "rrzstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "rrz1234509876"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
